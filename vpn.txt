@@ -1,0 +1,12 @@
+#profile-title: zolotovvpn
+#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает
+#profile-update-interval: 6
+
+vless://eff20734-0703-42a3-a626-f8b614a3dc1a@italy.alexanderoff.ru:990?security=reality&type=xhttp&headerType=&path=%2F&host=eh.vk.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=eh.vk.com&fp=chrome&pbk=kl7xDzETYkdbKuL0djJbD7Y9xvkdSgRGVt7F5lNHTn0&sid=d49d578f280fd83a#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC%20%5BX%5D
+vless://a839d564-9b0c-474a-9d62-259818e690f2@italy.alexanderoff.ru:5555?security=reality&type=grpc&headerType=&serviceName=vless&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=kl7xDzETYkdbKuL0djJbD7Y9xvkdSgRGVt7F5lNHTn0&sid=71808e83aa79b0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC2%20%5BR%5D
+vless://aba6ed40-b4ad-4adc-98a8-f3ba2a64f5f3@italy.alexanderoff.ru:1010?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC2
+vless://82c438e8-bbaa-43bf-b068-61a5fd6c76f6@white100.alexanderoff.ru:1010?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC3
+vless://3c8ae437-471c-40a6-8d2e-336915b7313c@de.aeza.alexanderoff.ru:1010?security=none&type=grpc&headerType=&serviceName=vless&authority=&mode=gun#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptdW5EMDdRWmVmRUZNM0JJYUxLRllR@de.aeza.alexanderoff.ru:1020#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WjF6Sk1RY1hIdlplcnhONVh1R2pn@white100.alexanderoff.ru:1020#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwLTV6SUU1YnA1cVZVR3ptOWVGRVln@italy.alexanderoff.ru:1020#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20gRPC%202
