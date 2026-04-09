@@ -1,4 +1,4 @@
 #profile-title: zolotovvpn
-#announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает ТЕХНИЧЕСКИЕ РАБОТЫ!!!!!!!!
+#announce: Проводятся Тех.Работы!
 #profile-update-interval: 6
 vless://71457276-ff74-473d-8679-bcbafd994af1@nodemoscowobx.shakevpn.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=nodemoscowobx.shakevpn.ru&pbk=o3ZsE5cxbCh8YyROmZpbHuJmBik8uvJeVL-rTanHE2M&sid=d9e897577b6c9ca6#Obxod
